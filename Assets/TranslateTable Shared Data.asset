@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TranslateTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TranslateTable
+  m_TableCollectionNameGuidString: 88763436c63192f408dca80f61427bc8
+  m_Entries:
+  - m_Id: 956414107648
+    m_Key: Game/CanvasDialogBubble/DialogBubble/Texto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7767103971328
+    m_Key: FreezrTrapInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1803647427616768
+    m_Key: LevelMenu/UICanvas/GameButtonMultiplayer/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1803793636859904
+    m_Key: LevelMenu/UICanvas/GameButtonMultiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1804605448593408
+    m_Key: LevelMenu/UICanvas/GameButtonMultiplayer/TextMulti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1805200653885440
+    m_Key: LevelMenu/UICanvas/GameButtonMultiplayer/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2006755413428535298
+  references:
+    version: 2
+    RefIds:
+    - rid: 2006755413428535298
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1713590163752

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TranslateTable_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 88763436c63192f408dca80f61427bc8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 956414107648
+    m_Localized: Selecciona una celda para colocar la trampa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7767103971328
+    m_Localized: Seleccione una celda para colocar la trampa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7856623001600
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8772092764160
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13948946030592
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1803647427616768
+    m_Localized: CONTINUAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1803793636859904
+    m_Localized: LoadGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1804605448593408
+    m_Localized: MULTIPLAYER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1805200653885440
+    m_Localized: New Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12326567228809216
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14142319879593984
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15675630217142272
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15968878080892928
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16661186929565696
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16663144973279232
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44977905959772160
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45013022828732416
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48205829814951936
+    m_Localized: Seleccione una celda adyacente para moverte hasta ella.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
